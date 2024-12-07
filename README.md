@@ -32,5 +32,5 @@ The API allows users to perform the following actions securely:
   *Employed dotenv to load environment variables from a .env file, facilitating secure configuration management.*
 
 
-# How does this APIs works ?, you can test it using PostMan !! 
-
+# How does this APIs works ?, you can test it using PostMan use this link below !! 
+https://user-authentication-and-authorization-g9s9.onrender.com/api/users/register
